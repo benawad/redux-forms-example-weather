@@ -1,3 +1,5 @@
-# My React template
+# redux-forms-example-weather
 
-Has all the boilerplate filled out for react + react-router + redux + redux-saga + semantic-ui
+An example project using [redux-form](https://github.com/erikras/redux-form) and [redux-saga](https://github.com/redux-saga/redux-saga)
+
+![project screenshot](/screenshot.png)
